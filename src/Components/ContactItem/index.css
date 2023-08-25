@@ -1,0 +1,89 @@
+.table-row {
+  display: flex;
+  list-style-type: none;
+  width: 310px;
+  border: 1px solid #cbd5e1;
+  width: 449px;
+  margin-right: 40px;
+  margin-left: 200px;
+  background-color: #ffffff;
+}
+
+.table-cell {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-left: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.name-column {
+  width: 20%;
+}
+
+.mobile-no-column {
+  flex-grow: 1;
+}
+
+.mobile-no-value {
+  flex-grow: 1;
+}
+
+.favorite-icon-container {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.favorite-icon {
+  background: transparent;
+  margin-right: 24px;
+  align-self: center;
+  border: none;
+  outline: none;
+}
+
+.separator-name {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 96px;
+}
+
+.table-header {
+  display: flex;
+  width: 450px;
+  border: 1px solid #cbd5e1;
+  margin-right: 40px;
+}
+
+.first-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 19.6px;
+  color: #1e293b;
+}
+
+.last-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #1e293b;
+  padding-right: 110px;
+}
+
+.separator {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 100px;
+}
+
+span {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #735ed3;
+  margin-top: 10px;
+}

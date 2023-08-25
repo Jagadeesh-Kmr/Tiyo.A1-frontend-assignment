@@ -1,0 +1,11 @@
+.side-bar-bg {
+  background-color: #f9fbfd;
+  width: 110px;
+  min-height: 100vh;
+  display: flex;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  padding-left: 20px;
+  padding-right: 20px;
+}

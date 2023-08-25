@@ -1,0 +1,11 @@
+.header-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(84, 84, 196);
+  color: #ffffff;
+  font-family: 'Bee serif';
+  font-size: 10px;
+  font-weight: 300;
+}

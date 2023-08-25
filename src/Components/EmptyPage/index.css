@@ -1,0 +1,39 @@
+.empty-bg {
+  display: flex;
+  align-items: center;
+  background-color: #f1f5f9;
+  min-height: 100vh;
+}
+
+.create-contact {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  border: 3px solid #1a1b1d;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.cancel-icon {
+  font-size: 60px;
+  margin-right: 10px;
+}
+
+.desc {
+  display: flex;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  border: 3px solid #1a1b1d;
+  width: 380px;
+  padding: 10px;
+  margin-top: 60px;
+}
+
+.empty-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 400px;
+}
